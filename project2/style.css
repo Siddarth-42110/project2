@@ -1,20 +1,17 @@
-html {
-    scroll-behavior: smooth;
+bosy{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
 }
-
-body{
-    background: #252525;
-    font-family: "baloo Tamma 2", cursive;
+h1{
+    color:#4caf50;
 }
-
-.m-heading{
-    font-family: "Roboto Slab", serif;
+form{
+    margin-bottom: 20px;
 }
-.navigation-link {
-    border: 2px solid transparent;
-}
-.navigation-link:hover{
-    text-decoration: none;
-    border-bottom: 2px solid #f5ba09;
-    transition: 0.5s ease;
+input,
+button{
+    padding: 10px;
+    margin:5px;
+    font-size:16px;
 }
